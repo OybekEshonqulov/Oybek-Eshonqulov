@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OOP\\project\\formProject\\formProject.csproj": {}
+    "C:\\Users\\user\\Desktop\\formProject\\formProject.csproj": {}
   },
   "projects": {
-    "D:\\OOP\\project\\formProject\\formProject.csproj": {
+    "C:\\Users\\user\\Desktop\\formProject\\formProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OOP\\project\\formProject\\formProject.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\formProject\\formProject.csproj",
         "projectName": "formProject",
-        "projectPath": "D:\\OOP\\project\\formProject\\formProject.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\formProject\\formProject.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\OOP\\project\\formProject\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\formProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
