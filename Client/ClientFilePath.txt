@@ -1,0 +1,1 @@
+{"UserType":"Client","FIO":"asror","UserName":"asror","Password":"12345"}

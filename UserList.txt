@@ -1,0 +1,7 @@
+﻿SuperAdmin,Istamov Mirjahon,istamovMM,081204
+Admin,Abdullayev Hayot,hayot3003,300304
+Admin,Eshonqulov Oybek,oybek0626,060604
+Client,Jamshid,jamshid,12345
+Client,jasur,jasur,12345
+Client,salomov oydin,asadbe,privet
+Client,asror,asror,12345
